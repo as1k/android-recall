@@ -1,0 +1,5 @@
+rootProject.name='Android-recall'
+include ':app'
+include ':p01sampleproject'
+include ':p02activitylifecycle'
+include ':p03recyclerviewapp'
