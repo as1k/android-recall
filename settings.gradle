@@ -1,3 +1,6 @@
+include ':p07fragmentapp'
+include ':p05explicitintents_alishev'
+include ':p04recycleview_alishev'
 rootProject.name='Android-recall'
 include ':app'
 include ':p01sampleproject'
